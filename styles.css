@@ -1,0 +1,35 @@
+body {
+    background-color: ghostwhite;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 54px;
+    text-align: center;
+}
+
+
+
+
+h3 {
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border: aqua 3px solid;
+    margin: 25px;
+    border-radius: 260px;
+}
+
+
+form {
+    padding: 15px;
+    border: black 2px solid;
+    width: 500px;
+    border-radius: 30px;
+}
